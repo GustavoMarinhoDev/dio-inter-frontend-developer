@@ -1,0 +1,4 @@
+Durante a realização do curso de Lógica de Programação Essencial fizemos alguns exercícios práticos sendo alguns deles seguem abaixo:
+
+Exercício 1: Calcular o total de vendas realizadas por um vendedor nos meses de janeiro, fevereiro, março e abril e também mostrar sua média.
+Exercício 2: Definir um número para se calcular a sua tabuada após estabelecer seu limite.
