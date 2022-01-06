@@ -1,0 +1,19 @@
+O Bootcamp DIO/Inter Frontend Developer possui um nível de dificuldade classificado como intermediário. 
+O Bootcamp da Inter possui uma duração total de 99hrs divididos em 42 cursos (atividades). O prazo para 
+finalização do bootcamp é até 13/02/2022.
+
+Até o início da criação deste primeiro repositório foi lecionado as seguintes cursos:
+
+Boas-vindas ao Bootcamp Inter Frontend Developer;
+
+Lógica de Programação Essencial;
+
+Aprenda o que são Estrutura de Dados e Algoritmos;
+
+Introdução ao Git e ao GitHub;
+
+Projetos ágeis com SCRUM.
+
+Também foi lecionado uma mentoria:
+
+Mentoria #1: Aula Inaugural - Bootcamp Inter Frontend Developer.
